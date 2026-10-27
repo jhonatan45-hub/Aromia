@@ -4,3 +4,4 @@ wrangler.jsonc
 .assetsignore
 .nojekyll
 fonts/LEEME.txt
+.wrangler
