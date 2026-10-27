@@ -1,0 +1,4 @@
+Coloca aquí los archivos de las tipografías oficiales con estos nombres (basta con un formato):
+  SugoDisplay-Bold.woff2  (o .otf / .ttf)
+  CyGrotesk-Bold.woff2    (o .otf / .ttf)
+La web los carga automáticamente. Mientras no estén, usa Anton y Archivo.
