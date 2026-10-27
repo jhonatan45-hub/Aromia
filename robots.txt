@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aromia.deivert2004chilon.workers.dev/sitemap.xml
+Sitemap: https://aromia.webs-pe.workers.dev/sitemap.xml

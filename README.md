@@ -1,6 +1,6 @@
 # Aromía · Placer en miniatura
 
-Web de Aromía publicada en Cloudflare: https://aromia.deivert2004chilon.workers.dev/
+Web de Aromía publicada en Cloudflare: https://aromia.webs-pe.workers.dev/
 
 Cada cambio que se sube a la rama `main` se publica solo en Cloudflare.
 
