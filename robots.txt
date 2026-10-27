@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aromia.deivert2004chilon.workers.dev/sitemap.xml
